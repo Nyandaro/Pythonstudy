@@ -3,7 +3,3 @@
 
 https://nyandaro.github.io/Pythonstudy/
 
-
-
-
-zxcv
